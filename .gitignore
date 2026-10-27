@@ -1,0 +1,9 @@
+# Never commit Google credentials or local tokens
+credentials.json
+token.json
+.env
+.env.*
+*.pem
+__pycache__/
+.venv/
+venv/
